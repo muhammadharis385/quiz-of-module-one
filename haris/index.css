@@ -1,0 +1,24 @@
+.navbar{
+    display: inline;
+}
+.navbarAnchor{
+    border: 2 solid black;
+}
+
+.paragraph-img-1-girls-img{
+    padding-top:0%;
+    height: 350px;
+    width: 400px;
+}
+.contentOne{
+    padding-top: 30px;
+}
+
+.logo{
+        margin-left: 45px;
+        padding: ;
+}
+
+.section-services{
+    margin-left: 60PX;
+}
